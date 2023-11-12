@@ -16,6 +16,7 @@ const count = ref(0)
     min-height: 100vh;
     display: flex;
     align-items: center;
+    justify-content: center;
   }
   button {
     font-weight: bold;
