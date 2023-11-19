@@ -4,9 +4,8 @@ const todoList = [
     {text: 'Belajar css', start: '08:00', end: '09:00', done: false},
     {text: 'Belajar Javascript', start: '10:00', end: '11:00', done: false},
 ];
-
 const addTodo = () => {
-    alert('halohalo')
+    console.info('hello')
 }
 </script>
 <template>
